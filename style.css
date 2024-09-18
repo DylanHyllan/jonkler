@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+img{
+    width: 600px;
+    border: solid white 5px;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
